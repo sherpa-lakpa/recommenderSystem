@@ -1,0 +1,1 @@
+{'modelName': 'Popularity', 'recall@5': 0.20718052738336715, 'recall@10': 0.2718052738336714}
